@@ -1,1 +1,10 @@
+export { Cliente } from './models/cliente';
+export { NewCliente } from './models/new-cliente';
+export { ClienteWithRelations } from './models/cliente-with-relations';
+export { ClientePartial } from './models/cliente-partial';
+export { Proyecto } from './models/proyecto';
+export { NewProyecto } from './models/new-proyecto';
+export { ProyectoWithRelations } from './models/proyecto-with-relations';
+export { ProyectoPartial } from './models/proyecto-partial';
+export { Count as LoopbackCount } from './models/loopback/count';
 export { PingResponse } from './models/ping-response';
