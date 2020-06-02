@@ -11,6 +11,7 @@ export interface ProyectoWithRelations {
   Estado?: string;
   FechaFin?: string;
   FechaInicio?: string;
+  Josue2?: string;
   Nombre: string;
   Status?: string;
   idProyecto?: number;
